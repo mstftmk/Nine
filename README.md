@@ -3,11 +3,11 @@
 ##Screenshots
 
 <p align="left">
-  <img src="/Images/iOS_1-Nine.png" />
-  <img src="/Images/iOS_2-Nine.png" />
-  <img src="/Images/iOS_3-Nine.png" />
-  <img src="/Images/iOS_4-Nine.png" />
-  <img src="/Images/iOS_5-Nine.png" />
+  <img src="/Images/iOS_1-Nine.jpg" />
+  <img src="/Images/iOS_2-Nine.jpg" />
+  <img src="/Images/iOS_3-Nine.jpg" />
+  <img src="/Images/iOS_4-Nine.jpg" />
+  <img src="/Images/iOS_5-Nine.jpg" />
 </p>
 
 ## Find the number and gain points!
