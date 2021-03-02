@@ -1,6 +1,6 @@
 # Nine - Find the number
 
-##Screenshots
+## Screenshots
 
 <p align="left">
   <img src="/Images/iOS_1-Nine.jpg" />
